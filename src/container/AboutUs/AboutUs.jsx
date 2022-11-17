@@ -5,7 +5,7 @@ import "./AboutUs.css";
 
 const AboutUs = () => (
   <div
-    className="app__aboutus app__flex flex__center section__padding"
+    className="app__aboutus app__flex flex__center app__bg section__padding"
     id="about"
   >
     <div className="app__aboutus-overlay flex__center">
